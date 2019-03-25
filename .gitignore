@@ -12,3 +12,4 @@ _minted*
 ltximg/
 *.bbl
 *.tex
+.idea/
