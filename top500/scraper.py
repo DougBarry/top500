@@ -40,6 +40,8 @@ SYSTEM_FIELDS = {
     'site_url': 'site_url',
     'city': 'city',
     'segment': 'segment',
+    'Measured Cores:': 'cores_measured',
+    'Power Measurement Level:': 'power_measured'
 }
 
 # The complete list of fields that we store for each list entry.
